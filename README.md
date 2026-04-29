@@ -11,19 +11,19 @@ An interactive Power BI dashboard built on the **Stack Overflow Annual Survey 20
 ## 🖼️ Dashboard Preview
 
 ### Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/1-overview.png)
 
 ### Demographics
-![Demographics](screenshots/demographics.png)
+![Demographics](screenshots/2-demographics.png)
 
 ### Salary & Experience
-![Salary & Experience](screenshots/salary_experience.png)
+![Salary & Experience](screenshots/3-salary_experience.png)
 
 ### Technologies
-![Technologies](screenshots/technologies.png)
+![Technologies](screenshots/4-technologies.png)
 
 ### AI Development
-![AI Development](screenshots/ai_development.png)
+![AI Development](screenshots/5-ai_development.png)
 
 ---
 
@@ -80,14 +80,14 @@ All pages support the following interactive slicers:
 stack-overflow-survey-dashboard/
 │
 ├── 📁 data/
-│   └── survey_results_public.csv       # Raw survey dataset (or link if too large)
+│   └── survey_results_public.csv       # Download from: https://survey.stackoverflow.co/
 │
 ├── 📁 screenshots/
-│   ├── overview.png
-│   ├── demographics.png
-│   ├── salary_experience.png
-│   ├── technologies.png
-│   └── ai_development.png
+│   ├── 1-overview.png
+│   ├── 2-demographics.png
+│   ├── 3-salary_experience.png
+│   ├── 4-technologies.png
+│   └── 5-ai_development.png
 │
 ├── 📄 StackOverflowDashboard.pbix      # Power BI file
 └── 📄 README.md                        # Project documentation
