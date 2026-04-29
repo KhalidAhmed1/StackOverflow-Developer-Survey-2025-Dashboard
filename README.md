@@ -77,7 +77,7 @@ All pages support the following interactive slicers:
 ## 📁 Repository Structure
 
 ```
-stack-overflow-survey-dashboard/
+StackOverflow-Developer-Survey-2025-Dashboard/
 │
 ├── 📁 data/
 │   └── survey_results_public.csv       # Download from: https://survey.stackoverflow.co/
